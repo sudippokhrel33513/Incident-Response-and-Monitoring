@@ -113,7 +113,7 @@ metadata: attack_target Client_and_Server, deployment Perimeter
 
 **Why it matters:** Security Onion's Squert correctly classified the Metasploit traffic as a **TROJAN** with priority 1 (HIGH). The Snort signature `sid:2025644` specifically identifies Metasploit bind API patterns — demonstrating how IDS signatures catch known attack frameworks even when traffic appears legitimate.
 
-![Squert Alert Analysis - Metasploit Detected](Incident-Response/2.jpg)
+![Squert Alert Analysis - Metasploit Detected](Incident-Response/2.png)
 
 ---
 
