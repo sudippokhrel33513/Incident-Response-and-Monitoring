@@ -74,7 +74,7 @@ Meterpreter     : x86/windows
 
 **Why it matters:** A reverse TCP shell bypasses firewalls since the connection originates from the victim machine outward. The `sysinfo` output confirms full control of `S23-SPOKHREL157` — a Windows Server 2016 machine.
 
-![Reverse TCP Shell - Meterpreter Session](Incident Response and Monitoring/lab09/1.png)
+![Reverse TCP Shell - Meterpreter Session](lab09/1.png)
 
 ---
 
